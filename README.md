@@ -1,5 +1,5 @@
 # ISEN370 Engineering Statistics Project 1
-# Fall 2022
+# Spring 2023
 ## Instructions:
 1. This project is designed to introduce you to data science and basics tools that you can use to solve engineering statistics related problems (Descriptive statistics and visualizations).
 2. This is a group assignment. A team consisting no more than 4 students will collaborate on the project.
